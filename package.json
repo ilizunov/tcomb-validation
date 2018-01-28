@@ -23,7 +23,7 @@
   },
   "homepage": "https://github.com/gcanti/tcomb-validation",
   "dependencies": {
-    "tcomb": "^3.0.0"
+    "tcomb": "https://github.com/ilizunov/tcomb"
   },
   "devDependencies": {
     "eslint": "0.22.1",
